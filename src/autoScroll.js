@@ -1,4 +1,4 @@
-import _throttle from 'lodash/throttle';
+import _throttle from 'lodash.throttle';
 
 const setup = () => {
     const autoScrollCtrl = {};
